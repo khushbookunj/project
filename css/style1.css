@@ -1,0 +1,27 @@
+body{	
+
+}
+.login{
+
+	background-color:rgba(52 , 73 , 94 , 0.7);
+	border-radius:10px;
+	margin-top:200px;
+	height:350px;
+	width:400px;
+margin-bottom:100px;
+margin-left:550px;
+margin-right:100px;
+border-bottom: 8px solid;
+border-left:8px solid;
+}
+.login img{
+	
+	border-top-left-radius:150px;
+	border-top-right-radius:150px;
+	border-bottom-left-radius:150px;
+	border-bottom-right-radius:150px;
+	height:150px;
+	width:150px;
+	margin-left:120px;
+	margin-top:-60px;
+}
